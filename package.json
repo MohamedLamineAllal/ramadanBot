@@ -1,0 +1,19 @@
+{
+  "name": "ramadanbot",
+  "version": "1.0.0",
+  "description": "A ramadan interactive bot.",
+  "main": "ramadanBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ramadan",
+    "bot"
+  ],
+  "author": "Allal Mohamed Lamine",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.4"
+  }
+}
